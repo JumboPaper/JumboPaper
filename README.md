@@ -1,4 +1,5 @@
 ## JUMBOTIC 
+## Programmed languages
 <p allign = "center">
  <img src = "image/csharpImg.png" width = "100">
 <img src = "image/cssImg.png" width = "70">
