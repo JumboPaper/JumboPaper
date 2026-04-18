@@ -1,5 +1,6 @@
 ## JUMBOTIC 
 ## Programmed languages
+<img src = "image/JUMBO_PAPERbanner.png">
 <p allign = "center">
  <img src = "image/csharpImg.png" width = "150">
  <img src = "image/pythonImg.png" width = "100">
