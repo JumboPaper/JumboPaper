@@ -1,4 +1,4 @@
-## JUMBOTIC 
+## Top 3 in the neighborhood 
 <img src = "image/JUMBO_PAPERbanner.png">
 <p allign = "center">
  <img src = "image/csharpFile.png" width = "60">
