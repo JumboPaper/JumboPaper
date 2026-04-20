@@ -1,6 +1,5 @@
 ## JUMBOTIC 
 <img src = "image/JUMBO_PAPERbanner.png">
-<div allign = "center">
 <p allign = "center">
  <img src = "image/csharpFile.png" width = "60">
  <img src = "image/pythonFile.png" width = "60">
@@ -8,7 +7,7 @@
  <img src = "image/htmlFile.png" width = "60">
  <img src = "image/linuxFile.png" width = "60">
 </p>
-</div>
+
 
 
 
