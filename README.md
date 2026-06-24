@@ -1,5 +1,5 @@
 ## ***Top 3 in the neighborhood***
-<img src = "image/JUMBO_PAPERbanner.png">
+<img src = "image/BannerJumboPaper.png">
 <p allign = "center">
  <img src = "image/csharpFile.png" width = "60">
  <img src = "image/pythonFile.png" width = "60">
